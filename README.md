@@ -25,6 +25,6 @@ The Simon Game is a memory challenge where players need to repeat randomly gener
 Feel free to contribute, report issues, or suggest improvements. Your feedback is valuable!
 
 ## Demo
-[See the game in action here](URL_OF_DEMO)
+[See the game in action here](https://paulo-hmm.github.io/simon-game-jq/)
 
 Enjoy playing and exploring the source code! If you have any questions or suggestions, don't hesitate to reach out.
